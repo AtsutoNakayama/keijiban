@@ -1,0 +1,142 @@
+.logo {
+    width: 250px;
+    margin-left: 20px;
+}
+
+header {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+
+header ul {
+    width: 100%;
+    line-height: 40px;
+    list-style: none;
+    background-color: black;
+}
+
+header ul li {
+    float: left;
+    margin-right: 30px;
+    color: white;
+}
+
+main {
+    clear: left;
+}
+
+main .main_container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.left {
+    float: left;
+    width: 69%;
+    height: 975px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+}
+
+.right {
+    float: left;
+    width: 25%;
+    height: 975px;
+    margin-bottom: 40px;
+    padding-top: 14px;
+}
+
+h1 {
+    clear: left;
+    border-left: 5px solid black;
+    border-bottom: 1px solid black;
+    padding-left: 5px;
+}
+
+h2 {
+    border-bottom: 1px dotted black;
+}
+
+p {
+    font-size: 14px;
+}
+
+p.idt {
+    text-indent: 1em;
+}
+
+footer {
+    clear: left;
+    width: 100%;
+    height: 40px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 40px;
+}
+
+body{
+    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+}
+
+.midashi_1{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-left: 4px red solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 500px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+form{
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 3px;
+    width: 95%;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text, textarea, .dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.article{
+    margin: 10px auto;
+    padding-left: 15px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 3px;
+    width: 94%;
+}
+
+.midashi_2{
+    border-bottom: 2px solid #ebebeb;
+    width: 98%;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.author{
+    font-size: 10px;
+}
